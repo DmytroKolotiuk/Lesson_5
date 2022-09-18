@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700;900&display=swap');
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Book.woff2") format("woff2"), url("../fonts/CircularStd-Book.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Medium.woff2") format("woff2"), url("../fonts/CircularStd-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Bold.woff2") format("woff2"), url("../fonts/CircularStd-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Black.woff2") format("woff2"), url("../fonts/CircularStd-Black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+body {
+	background-color: rgba(228, 200, 214, 0.952);
+}
+
+.new {
+	font-size: 900%;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.things {
+	font-size: 400%;
+	text-shadow: 1px 1px 2px #d8d1d1, 0 0 1em #88517a, 0 0 0.2em #8d8db4;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	text-align: center;
+	border: 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+.first {
+	font-size: 150%;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+	margin-left: auto;
+}
+
+.second {
+	font-size: 150%;
+	text-align: right;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+	margin-top: 5em;
+}
+
+.third {
+	font-size: 150%;
+	text-align: right;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+}
+
+.fourth {
+	font-size: 150%;
+	text-align: right;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+}
+
+.fifth {
+	font-size: 150%;
+	text-align: right;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+}
+
+.sixth {
+	font-size: 150%;
+	text-align: right;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+}
+
+.seventh {
+	font-size: 150%;
+	text-align: right;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+}
+
+.eighth {
+	font-size: 150%;
+	text-align: right;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+}
+
+.ninth {
+	font-size: 150%;
+	text-align: right;
+	color: #968792;
+	text-shadow: 1px 1px 1px rgb(121, 98, 98),
+		2px 2px 1px rgb(204, 178, 178);
+	font-style: italic;
+}
+
+.dubai-fountain {
+	font-weight: 900;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+.the-palm {
+	font-weight: 700;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+.future {
+	font-weight: 700;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+.dubai-aquarium {
+	font-weight: 700;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+.dubai-mall {
+	font-weight: 700;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+.burj {
+	font-weight: 700;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+.walk {
+	font-weight: 700;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+.madinat {
+	font-weight: 700;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+p {
+	font-family: "CircularStd";
+	color: #03034d;
+	border: 5px solid black;
+	display: table-cell
+}
+
+.gallery {
+	font-size: 400%;
+	text-shadow: 1px 1px 2px #d8d1d1, 0 0 1em #88517a, 0 0 0.2em #8d8db4;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	text-align: center;
+}
+
+.information {
+	color: hsl(261, 75%, 34%);
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+.again {
+	color: blue;
+	font-style: italic;
+	padding: 15px 15px 15px 15px;
+	margin: 15px 15px 15px 15px;
+}
+
+.gallery {
+	font-weight: 700;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	text-shadow: 1px 1px 2px #f3f2f2, 0 0 1em #8a056b, 0 0 0.2em #03034d;
+}
+
+img {
+	padding: 15px 15px 15px 15px;
+	margin: 15px 15px 15px 15px;
+}
